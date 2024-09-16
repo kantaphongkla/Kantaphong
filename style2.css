@@ -1,0 +1,51 @@
+body{
+    background-color: #97f2f3;
+}
+
+.title{
+    text-align: center;
+    color: #89aeb2;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+
+.title h1 {
+    font-size: 56px;
+    font-family: 'Forever Brush Script', cursive;
+    text-transform: uppercase;
+    margin: 0;
+}
+.smalltitle{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}
+
+.container{
+    background-color: #f1cd80;
+    border: 2px solid #89aeb2;
+    width: 700px;
+    margin: 10px auto;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.link{
+    font-size: 30px;
+    color: #89aeb2;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+a:hover {
+    color: #89aeb2
+}
+
+.container2{
+    background-color: #f1e080;
+    border: 32px solid #89aeb2;
+    width: 640px;
+    margin: 10px auto;
+    margin-top: 20px;
+    border-radius: 60px;
+}
